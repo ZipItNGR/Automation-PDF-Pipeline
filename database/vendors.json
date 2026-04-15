@@ -1,0 +1,12 @@
+{
+    "TechCorp Solutions": {
+        "expected_iban": "BG98STSA93000012345678",
+        "expected_vat_rate": 0.20,
+        "payment_terms_days": 30
+    },
+    "Office Supplies Ltd": {
+        "expected_iban": "BG12UNCR76301045612300",
+        "expected_vat_rate": 0.20,
+        "payment_terms_days": 14
+    }
+}

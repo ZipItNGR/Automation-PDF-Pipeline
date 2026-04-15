@@ -1,0 +1,4 @@
+.env
+*.log
+error_log.txt
+env/

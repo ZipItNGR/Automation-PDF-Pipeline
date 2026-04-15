@@ -1,0 +1,13 @@
+{
+  "invoice_file": "1001_clean.pdf",
+  "extracted_data": {
+    "vendor_name": "TechCorp Solutions",
+    "iban": "BG98 STSA 9300 00123456 78",
+    "total_amount": 1200.0,
+    "vat_amount": 200.0,
+    "line_items_total": 1000.0,
+    "invoice_number": "INV-1001"
+  },
+  "status": "APPROVED",
+  "flagged_reasons": []
+}

@@ -1,0 +1,15 @@
+{
+  "invoice_file": "1002_fraud_iban.pdf",
+  "extracted_data": {
+    "vendor_name": "TechCorp Solutions",
+    "iban": "BG12 HACK 9999 00123456 78",
+    "total_amount": 600.0,
+    "vat_amount": 100.0,
+    "line_items_total": 500.0,
+    "invoice_number": "INV-1002"
+  },
+  "status": "FLAGGED",
+  "flagged_reasons": [
+    "IBAN mismatch: Found 'BG12 HACK 9999 00123456 78', Expected 'BG98STSA93000012345678'."
+  ]
+}

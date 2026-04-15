@@ -1,0 +1,15 @@
+{
+  "invoice_file": "1003_math_error.pdf",
+  "extracted_data": {
+    "vendor_name": "Office Supplies Ltd",
+    "iban": "BG12UNCR76301045612300",
+    "total_amount": 250.0,
+    "vat_amount": 40.0,
+    "line_items_total": 200.0,
+    "invoice_number": "INV-1003"
+  },
+  "status": "FLAGGED",
+  "flagged_reasons": [
+    "Math check failed: Line Items Total (200.0) + VAT (40.0) = 240.0, but Total Extract is 250.0."
+  ]
+}
